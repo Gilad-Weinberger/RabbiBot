@@ -2,6 +2,6 @@
 
 # List of all books in the database (alphabetically):
 <div dir="rtl">
-בראשית
+בראשית\n
 שמות
 </div>
