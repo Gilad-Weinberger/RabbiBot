@@ -55,7 +55,7 @@ const Chat = () => {
     <div className="w-screen bg-white h-screen">
       <div className="max-w-[60%] mx-auto h-screen flex flex-col items-center bg-white">
         <div
-          className="flex-1 w-full overflow-y-auto p-5 flex flex-col gap-5"
+          className="flex-1 w-full overflow-y-auto py-5 px-24 flex flex-col gap-5"
           id="chat-messages"
           ref={chatMessagesRef}
         >
