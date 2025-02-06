@@ -1,6 +1,6 @@
 # RabbiBot
 
-# List of all books in the database (alphabetically):
+### List of all books in the database (alphabetically):
 
 <div dir="rtl">
 
