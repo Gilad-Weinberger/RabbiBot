@@ -89,7 +89,7 @@ const Chat = () => {
         >
           <textarea
             id="user-input"
-            rows="1"
+            rows={1}
             placeholder="Type your message here..."
             autoComplete="off"
             autoFocus
