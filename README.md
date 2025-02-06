@@ -1,4 +1,4 @@
-# RabbiBot
+# RabbiBot - רבי-בוט
 
 ### List of all books in the database (alphabetically):
 
